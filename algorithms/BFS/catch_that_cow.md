@@ -1,8 +1,4 @@
----
-layout: default
-title:  "Cache That Cow"
----
-
+# <center>Catch That Cow</center>
 ### 问题描述
 
 农夫知道一头牛的位置，想要抓住它。农夫和牛都位于数轴上，农夫起始位于点 $N(0 \le N \le 100000)$，牛位于点$K(0 \le K \le 100000)$。农夫有三种移动方式：
