@@ -76,6 +76,7 @@ $$
 
 ## 泊松分布
 
+[泊松分布的详细介绍](./poisson_distribution.md)
 $$
 Pr(X=k)=\frac{\lambda^k}{k!}e^{-\lambda}, (k=1,2, \dots)
 $$
