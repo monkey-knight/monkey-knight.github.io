@@ -1,4 +1,4 @@
-# 泊松分布（Poisson Distribution）
+# <center>泊松分布（Poisson Distribution）</center>
 
 原文地址：<https://blog.csdn.net/ccnt_2012/article/details/81114920>
 
