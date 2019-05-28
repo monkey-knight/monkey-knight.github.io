@@ -7,6 +7,7 @@
 ## Probability Theory
 
 - [（2019-5-25）重要分布](./probability_theory/distribution.md)
+  - [（2019-5-28）泊松分布](./probability_theory/poisson_distribution.md)
 - [（2019-5-25）分布函数、概率密度函数、概率质量函数](./probability_theory/probability_function.md)
 - [（2019-5-25）数学期望、方差、协方差](./probability_theory/digital_characteristic.md)
 
