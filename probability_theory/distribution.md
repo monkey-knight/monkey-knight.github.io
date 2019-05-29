@@ -108,7 +108,7 @@ $$
 
 
 
-## $\beta$ 分布
+## Beta 分布
 
 如果不了解 Beta 分布，强烈建立阅读文章：[Beta 分布](./beta_distribution.md)
 

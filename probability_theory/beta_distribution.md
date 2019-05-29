@@ -4,7 +4,7 @@
 
 
 
-像[正太分布（Normal Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[二项分布（Binomial Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[均匀分布（Uniform Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)这样一些分布在统计学教学中会结合它们在现实中的意义和应用加以解释，这也意味着统计学的初学者对它们的有非常深刻的理解。但是我发现 [Beta 分布](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)几乎没有直观上的解释，取而代之的是大量的术语，比如“共轭先验（conjugate prior）”和”顺序统计（order statistic）“。
+像[正太分布（Normal Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[二项分布（Binomial Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[均匀分布（Uniform Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)这样一些分布在统计学教学中会结合它们在现实中的意义和应用加以解释，这也意味着统计学的初学者对它们的有非常深刻的理解。但是我发现 [Beta 分布](http://en.wikipedia.org/wiki/Beta_distribution)几乎没有直观上的解释，取而代之的是大量的术语，比如“共轭先验（conjugate prior）”和”顺序统计（order statistic）“。
 
 简而言之，Beta 分布可以被理解为<font color='red'>概率的概率分布（probability distribution of probabilities）</font>——也就是说，当我们不知道概率是多少时，它可以表示概率的所有可能的值。下面的我最喜欢的关于 Beta 分布的解释：
 
@@ -27,7 +27,7 @@
 
 x 轴就表示平均击球率。
 
-想象一下，玩家击球一次，那么他本赛季目前的成绩就是”1击；1中“，但是我们必须要更新我们的概率——我们希望能够将整个曲线移动一点来反映我们的新信息。虽然[数学证明]()很复杂，但是结果很简单。新的 Beta 分布将是：
+想象一下，玩家击球一次，那么他本赛季目前的成绩就是”1击；1中“，但是我们必须要更新我们的概率——我们希望能够将整个曲线移动一点来反映我们的新信息。虽然[数学证明](http://en.wikipedia.org/wiki/Conjugate_prior#Example)很复杂，但是结果很简单。新的 Beta 分布将是：
 
 $$
 Beta(\alpha + hits, \beta + misses)
