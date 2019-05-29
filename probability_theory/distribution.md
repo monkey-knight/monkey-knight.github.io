@@ -65,7 +65,7 @@ $$
 ## 几何分布
 
 $$
-Pr(X=k)=p(1-p)^{k-1}
+P(X=k)=p(1-p)^{k-1}
 $$
 
 
@@ -76,15 +76,23 @@ $$
 
 ## 泊松分布
 
-[泊松分布的详细介绍](./poisson_distribution.md)
+泊松分布（Poisson Distribution），记为 $X \sim P(\lambda)$。
+
+如果还不了解泊松分布，强烈建议阅读文章：[泊松分布](./poisson_distribution.md)。
+
+泊松分布的表达式：
 
 $$
-Pr(X=k)=\frac{\lambda^k}{k!}e^{-\lambda}, (k=1,2, \dots)
+P(X=k)=\frac{\lambda^k}{k!}e^{-\lambda}, (k=1,2, \dots)
 $$
 
+#### Probability Mass Function
 
+![1559048079277](assets/1559048079277.png)
 
+#### Cumulative Distribution Function
 
+![1559048537576](assets/1559048537576.png)
 
 ## 均匀分布
 
@@ -101,4 +109,11 @@ $$
 
 
 ## $\beta$ 分布
+
+如果不了解 Beta 分布，强烈建立阅读文章：[Beta 分布](./beta_distribution.md)
+
+Beta 分布的概率密度函数：
+$$
+f(x;\alpha, \beta) = \frac{1}{B(\alpha, \beta)}x^{a-1}(1-x)^{\beta-1}
+$$
 
