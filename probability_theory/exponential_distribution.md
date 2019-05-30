@@ -38,6 +38,19 @@ $$
 
 ## 泊松过程
 
+之前讲的泊松分布只告诉了我们每天买出的馒头数。稍微扩展之后得到新的函数，即泊松过程：
+
+$$
+P(X=k,t)=\frac{(\lambda t)^k}{k!}e^{-\lambda t}
+$$
+
+通过泊松过程就可以知道不同时间段内卖出的馒头数的分布（$t=1$ 时是泊松分布）：
+
+![1559184118882](assets/1559184118882.png)
+
+
+
+
 ## 指数分布
 
 两次卖出馒头之间的时间间隔大于 $t$ 的概率，根据之前的分析，等价于 $t$ 时间段内没有卖出一个馒头的概率，而后者的概率可以由泊松过程给出。所以有：
@@ -55,9 +68,9 @@ $$
 这其实已经得到了 $Y$ 的累积分布函数了：
 
 $$
-F(y)=P(Y \le y)=\left\{\begin{matrix}
-1-e^{-\lambda y}, & y \ge 0\\ 
-0 & y \lt 0
+F(y)=P(Y \le t)=\left\{\begin{matrix}
+1-e^{-\lambda t}, & t \ge 0\\ 
+0 & t \lt 0
 \end{matrix}\right.
 $$
 
@@ -65,8 +78,8 @@ $$
 
 $$
 p(y)=\left\{\begin{matrix}
-\lambda e^{-\lambda y}, & y \ge 0\\ 
-0 & y \lt 0
+\lambda e^{-\lambda t}, & t \ge 0\\ 
+0 & t \lt 0
 \end{matrix}\right.
 $$
 
