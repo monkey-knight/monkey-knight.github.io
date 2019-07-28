@@ -54,3 +54,16 @@ The video lectures are on [web.mit.edu/18.06](http://web.mit.edu/18.06/www/) and
 
 ## Design Pattern
 
+
+
+
+
+## Latex
+
+#### 中文 latex 模板
+
+- Elegant Latex v3.08: 
+  - 模板下载：[ElegantBook-3.08.zip](./latex/ElegangBook/ElegantBook-3.08.zip)
+  - 中文指导书：[elegantbook-cn.pdf](./latex/ElegangBook/elegantbook-cn.pdf)
+  - 英文指导书：[elegantbook-en.pdf](./latex/ElegangBook/elegantbook-en.pdf)
+
