@@ -33,7 +33,7 @@ The video lectures are on [web.mit.edu/18.06](http://web.mit.edu/18.06/www/) and
 - [ ] Geometry of Linear Algebra
   - [lecture note in English](./linear-algebra/01-geometry-of-linear-algebra.pdf)
   - [中文课堂笔记]()
-  - [problems and solutions in English]()
+  - [problems and solutions in English](./linear-algebra/01-problems-and-solutions.pdf)
   - [中文习题及答案]()
 
 ## Computer Network
