@@ -60,9 +60,10 @@ The video lectures are on [web.mit.edu/18.06](http://web.mit.edu/18.06/www/) and
 
 ## Latex
 
-#### 中文 latex 模板
+下面会列出一些 Latex 模板。
 
-- Elegant Latex v3.08: 
-  - 模板下载：[ElegantBook-3.08.zip](./latex/ElegantBook/ElegantBook-3.08.zip)
-  - 中文指导书：[elegantbook-cn.pdf](./latex/ElegantBook/elegantbook-cn.pdf)
-  - 英文指导书：[elegantbook-en.pdf](./latex/ElegantBook/elegantbook-en.pdf)
+- **Elegant Latex**
+  - **官网**：<https://elegantlatex.org>。
+  - **Elegant Note**: 用于笔记的 Latex 模板。**地址**：<https://github.com/ElegantLaTeX/ElegantNote>。
+  - **Elegant Book**：用于书籍的 Latex 模板。**地址**：<https://github.com/ElegantLaTeX/ElegantBook>。
+  - **Elegant Paper**：用于论文的 Latex 模板。**地址**：<https://github.com/ElegantLaTeX/ElegantPaper>。
