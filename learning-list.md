@@ -54,7 +54,23 @@ The video lectures are on [web.mit.edu/18.06](http://web.mit.edu/18.06/www/) and
 
 ## Design Pattern
 
-
+- [面向对象设计原则（Design Principles）](./design-pattern/principles/01-面向对象设计原则.md)
+  - [开放封闭原则（Open-Closed Principle, OCP）](./design-pattern/principles/02-开放封闭原则.md)
+  - [单一职责原则（Single Responsibility Principle, SRP）](./design-pattern/principles/03-单一职责原则.md)
+  - [$Liskov$ 代换原则（Liskov's Substitution Principle，LSP）](./design-pattern/principles/04-Liskov代换原则.md)
+  - [接口隔离原则（Interface Segregation Principle，ISP）](./design-pattern/principles/05-接口隔离原则.md)
+  - [依赖倒转原则（Dependency Inversion Principle，DIP）](./design-pattern/principles/06-依赖倒转原则.md)
+  - [迪米特原则](./design-pattern/principles/07-迪米特原则.md)
+  - [合成/聚合复用原则](./design-pattern/principles/08-合成聚合复用原则.md)
+- 创造者模式（Creational Patterns）
+  - 单例模式（Singleton Pattern）
+  - 简单工厂模式（Simple Factory Pattern）
+  - 工厂方法模式（Factory Method Pattern）
+  - 抽象工厂模式（Abstract Factory Pattern）
+  - 建造者模式（Builder Pattern）
+  - 原型模式（Prototype Pattern）
+- 行为型模式（Behavioural Patterns）
+- 结构型模式（Structural Patterns）
 
 ## Latex
 
