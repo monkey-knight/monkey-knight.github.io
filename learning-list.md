@@ -60,8 +60,8 @@ The video lectures are on [web.mit.edu/18.06](http://web.mit.edu/18.06/www/) and
   - [$Liskov$ 代换原则（Liskov's Substitution Principle，LSP）](./design-pattern/principles/04-Liskov代换原则.md)
   - [接口隔离原则（Interface Segregation Principle，ISP）](./design-pattern/principles/05-接口隔离原则.md)
   - [依赖倒转原则（Dependency Inversion Principle，DIP）](./design-pattern/principles/06-依赖倒转原则.md)
-  - [迪米特原则](./design-pattern/principles/07-迪米特原则.md)
-  - [合成/聚合复用原则](./design-pattern/principles/08-合成聚合复用原则.md)
+  - [迪米特原则（Law of Demeter）](./design-pattern/principles/07-迪米特原则.md)
+  - [合成/聚合复用原则（Composition/Aggregate Reuse Principle，CARP）](./design-pattern/principles/08-合成聚合复用原则.md)
 - 创造者模式（Creational Patterns）
   - 单例模式（Singleton Pattern）
   - 简单工厂模式（Simple Factory Pattern）
