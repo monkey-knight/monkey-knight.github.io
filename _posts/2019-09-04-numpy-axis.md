@@ -1,6 +1,11 @@
 ---
+layout: article
 title: numpy axis
-tags: TeXt
+tags: numpy
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 
 在 `numpy` 中，有很多函数都涉及到了 `axis`，而且根据`aixs` 的取值不同，得到的结果也完成不同。为了清晰的说明这个问题，首先我们通过一个三维数组来展示 axis 是什么。
