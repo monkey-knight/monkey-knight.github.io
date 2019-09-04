@@ -36,13 +36,76 @@ header:
       ko-KR   : *KO
     url: /about.html
 
+## => computer network
+##########################################
+computer_network:
+
+
+
+## => data structure and algorithms
+##########################################
+data_structure_and_algorithms:
+
+
+## => design pattern
+##########################################
+design_pattern:
+
+
+## => git
+##########################################
+git:
+
+
+## => linux
+##########################################
+linux:
+
+
+## => machine learning
+##########################################
+## -> reinforcement learning
+##----------------------------------------
+reinforcement_learning:
+
+
+## => math
+##########################################
+## -> linear algebra
+##----------------------------------------
+linear_algebra:
+
+## -> probability theory
+##----------------------------------------
+probability_theory:
+  - title:      Distribution
+    children:
+      - title:  poisson distribution
+        url:    /_posts/math/probability-theory/2019-05-28-poisson-distribution
+      - title:  beta distribution
+        url:    /_posts/math/probability-theory/2019-05-29-beta-distribution
+      - title:  exponential distribution
+        url:    /_posts/math/probability-theory/2019-05-30-exponential-distribution
+
+
+
+## => python
+##########################################
+python:
+
 
 numpy:
-  - title:      numpy
+  - title:      Numpy
     children:
       - title:  numpy axis
-        url:    /docs/2019-09-04-numpy-axis
-      - title:  numpy axis posts
-        url:    /_posts/2019-09-04-numpy-axis
-      - title:  numpy axis posts numpy
-        url:    /_posts/numpy/2019-09-04-numpy-axis
+        url:    /_posts/python/numpy/2019-09-04-numpy-axis
+
+gym:
+
+
+simpy:
+
+
+pygame:
+
+
