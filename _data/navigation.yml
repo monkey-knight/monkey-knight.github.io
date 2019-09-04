@@ -1,4 +1,7 @@
 header:
+  - title:      Docs
+    url:        /docs/en/1.1-quick-start.md
+
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
@@ -33,11 +36,9 @@ header:
       ko-KR   : *KO
     url: /about.html
 
-  - title:      Docs
-    url:        /docs/en/quick-start
 
 numpy:
   - title:      numpy
     children:
       - title:  numpy axis
-        url:    /docs/2019-09-04-numpy-axis.md
+        url:    /posts/2019-09-04-numpy-axis.md
