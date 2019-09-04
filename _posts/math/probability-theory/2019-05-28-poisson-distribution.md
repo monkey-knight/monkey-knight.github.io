@@ -21,7 +21,7 @@ sidebar:
 
 老板统计了在一周中每天卖出的馒头数（为了方便计算和讲解，缩小了数据）：
 
-![Image](./assets/1.svg "Image_rounded"){:.rounded}
+![Image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1.svg)
 
 均值为：
 
