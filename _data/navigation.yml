@@ -41,4 +41,4 @@ numpy:
   - title:      numpy
     children:
       - title:  numpy axis
-        url:    /posts/2019-09-04-numpy-axis.md
+        url:    /documents/2019-09-04-numpy-axis.md
