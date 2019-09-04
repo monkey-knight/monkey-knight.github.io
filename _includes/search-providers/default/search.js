@@ -106,7 +106,7 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
   });
 
   $result.on('mouseover', '.search-result__item > a', function() {
-    var itemIndex = $(this).parent().data('contents.md');
+    var itemIndex = $(this).parent().data('2019-09-04-contents.md.md');
     itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
   });
 });
