@@ -1,6 +1,6 @@
 header:
   - title:      Docs
-    url:        /docs/2019-09-04-numpy-axis
+    url:        /_posts/index
 
   - titles:
       en      : &EN       Archive
