@@ -1,6 +1,6 @@
 header:
   - title:      Docs
-    url:        /docs/_docs/en/1.1-quick-start.md
+    url:        /docs/_docs/en/1.1-quick-start
 
   - titles:
       en      : &EN       Archive
@@ -41,4 +41,4 @@ numpy:
   - title:      numpy
     children:
       - title:  numpy axis
-        url:    /docs/2019-09-04-numpy-axis.md
+        url:    /docs/2019-09-04-numpy-axis
