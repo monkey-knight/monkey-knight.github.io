@@ -2,7 +2,7 @@
 layout: article
 title: beta distribution
 permalink: /_posts/math/probability-theory/2019-05-29-beta-distribution
-tags: probability theory
+tags: probability_theory
 aside:
   toc: true
 sidebar:

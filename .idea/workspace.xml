@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb852f8f-9a12-4d43-829b-348fd08b5cf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1558752047279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1558754798671.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1559012545993.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1559012606184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1559048079277.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1559048537576.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/1559184118882.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/plot1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/plot2-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/math/probability-theory/assets/plot3-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-04-numpy-axis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/python/numpy/2019-09-04-numpy-axis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/numpy/2019-09-04-numpy-axis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2019-09-04-numpy-axis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="556">
@@ -113,8 +84,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="221">
-                <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,20 +96,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="74" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="78" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="78" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,10 +145,10 @@
         <option value="$PROJECT_DIR$/_posts/numpy/2019-09-04-numpy-axis.md" />
         <option value="$PROJECT_DIR$/_posts/python/numpy/2019-09-04-numpy-axis.md" />
         <option value="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-beta-distribution.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md" />
         <option value="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md" />
         <option value="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
       </list>
     </option>
   </component>
@@ -296,15 +267,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567589567425</updated>
-      <workItem from="1567589572565" duration="14494000" />
+      <workItem from="1567589572565" duration="14686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14494000" />
+    <option name="totallyTimeSpent" value="14686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -561,36 +533,6 @@
     <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/assets/1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="221">
-            <caret line="13" selection-start-line="13" selection-end-line="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="74" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="78" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="78" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/python/numpy/2019-09-04-numpy-axis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -605,6 +547,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
           <caret line="87" column="83" selection-start-line="87" selection-start-column="83" selection-end-line="87" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-28-poisson-distribution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

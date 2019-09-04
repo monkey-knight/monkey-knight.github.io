@@ -2,7 +2,7 @@
 layout: article
 title: poisson distribution
 permalink: /_posts/math/probability-theory/2019-05-28-poisson-distribution
-tags: probability theory
+tags: probability_theory
 aside:
   toc: true
 sidebar:
