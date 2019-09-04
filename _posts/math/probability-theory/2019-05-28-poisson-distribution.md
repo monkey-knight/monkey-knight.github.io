@@ -14,7 +14,6 @@ sidebar:
 
 原文地址：<https://blog.csdn.net/ccnt_2012/article/details/81114920>
 
-![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
 
 ## 馒头店
 
@@ -22,7 +21,7 @@ sidebar:
 
 老板统计了在一周中每天卖出的馒头数（为了方便计算和讲解，缩小了数据）：
 
-![Image](https://github.com/monkey-knight/monkey-knight.github.io/blob/master/_posts/math/probability-theory/assets/1.svg "Image_rounded"){:.rounded}
+![Image](./assets/1.svg "Image_rounded"){:.rounded}
 
 均值为：
 
