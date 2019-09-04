@@ -1,7 +1,7 @@
 ---
 layout: article
 title: numpy axis
-permalink: /docs/2019-09-04-numpy-axis 
+permalink: /_posts/2019-09-04-numpy-axis 
 tags: numpy
 aside:
   toc: true
