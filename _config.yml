@@ -184,8 +184,6 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - Gemfile
-  - LICENSE
   - README-*.md
   - README.md
   - gulpfile.js
@@ -214,3 +212,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+gems:
+  - jekyll-paginate
