@@ -191,7 +191,6 @@ exclude:
   - gulpfile.js
   - jekyll-text-theme.gemspec
   - package.json
-  - /screenshots
 
 defaults:
   - scope:
