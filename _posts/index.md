@@ -1,6 +1,8 @@
 ---
 layout: article
+title: contents
 permalink: /_posts/index
+tags: catalog
 ---
 
 <!--more-->
