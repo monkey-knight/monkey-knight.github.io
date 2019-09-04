@@ -22,7 +22,7 @@ sidebar:
 
 老板统计了在一周中每天卖出的馒头数（为了方便计算和讲解，缩小了数据）：
 
-![equation](./assets/1.svg)
+![equation](https://github.com/monkey-knight/monkey-knight.github.io/blob/master/_posts/math/probability-theory/assets/1.svg)
 
 均值为：
 
