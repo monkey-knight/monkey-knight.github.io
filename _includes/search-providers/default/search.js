@@ -106,7 +106,7 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
   });
 
   $result.on('mouseover', '.search-result__item > a', function() {
-    var itemIndex = $(this).parent().data('index');
+    var itemIndex = $(this).parent().data('contents.md');
     itemIndex >= 0 && (lastActiveIndex = activeIndex, activeIndex = itemIndex, updateResultItems());
   });
 });

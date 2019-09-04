@@ -1,6 +1,6 @@
 header:
   - title:      Docs
-    url:        /_posts/index
+    url:        /_posts/contents
 
   - titles:
       en      : &EN       Archive
@@ -38,42 +38,42 @@ header:
 
 ## => computer network
 ##########################################
-computer_network:
+ComputerNetwork:
 
 
 
 ## => data structure and algorithms
 ##########################################
-data_structure_and_algorithms:
+DataStructureAndAlgorithms:
 
 
 ## => design pattern
 ##########################################
-design_pattern:
+DesignPattern:
 
 
 ## => git
 ##########################################
-git:
+Git:
 
 
 ## => linux
 ##########################################
-linux:
+Linux:
 
 
 ## => machine learning
 ##########################################
 ## -> reinforcement learning
 ##----------------------------------------
-reinforcement_learning:
+ReinforcementLearning:
 
 
 ## => math
 ##########################################
 ## -> linear algebra
 ##----------------------------------------
-linear_algebra:
+LinearAlgebra:
 
 ## -> probability theory
 ##----------------------------------------
@@ -91,21 +91,21 @@ ProbabilityTheory:
 
 ## => python
 ##########################################
-python:
+Python:
 
 
-numpy:
+Numpy:
   - title:      Numpy
     children:
       - title:  numpy axis
         url:    /_posts/python/numpy/2019-09-04-numpy-axis
 
-gym:
+Gym:
 
 
-simpy:
+Simpy:
 
 
-pygame:
+Pygame:
 
 

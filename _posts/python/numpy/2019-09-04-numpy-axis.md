@@ -2,11 +2,11 @@
 layout: article
 title: numpy axis
 permalink: /_posts/python/numpy/2019-09-04-numpy-axis 
-tags: numpy
+tags: Numpy
 aside:
   toc: true
 sidebar:
-  nav: numpy
+  nav: Numpy
 ---
 
 <!--more-->

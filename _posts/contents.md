@@ -1,7 +1,7 @@
 ---
 layout: article
 title: contents
-permalink: /_posts/index
+permalink: /_posts/contents
 tags: catalog
 ---
 

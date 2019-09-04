@@ -2,11 +2,11 @@
 layout: article
 title: exponential distribution
 permalink: /_posts/math/probability-theory/2019-05-30-exponential-distribution
-tags: probability_theory
+tags: ProbabilityTheory
 aside:
   toc: true
 sidebar:
-  nav: probability_theory
+  nav: ProbabilityTheory
 ---
 
 <!--more-->
