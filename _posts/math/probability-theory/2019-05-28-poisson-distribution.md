@@ -21,7 +21,7 @@ sidebar:
 
 老板统计了在一周中每天卖出的馒头数（为了方便计算和讲解，缩小了数据）：
 
-![Image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1.svg)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1.png)
 
 均值为：
 
@@ -31,7 +31,7 @@ $$
 
 按道理讲均值是不错的选择（参见[如何理解最小二乘法](https://www.matongxue.com/madocs/818.html)？），但是如果每天准备 $5$ 个馒头的话，从统计表来看，至少有两天不够卖，$40\%$ 的时间不够卖：
 
-![1](./assets/2.svg)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/2.png)
 
 馒头店又不是小米，搞什么饥饿营销啊？老板当然也知道这一点，就拿起纸笔来开始思考。
 
@@ -40,19 +40,19 @@ $$
 
 老板尝试把营业时间抽象为一根线段，把这段时间用 $T$ 来表示：
 
-![2](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/3.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/3.png)
 
 然后把周一的三个馒头按照销售时间放在线段上：
 
-![3](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/4.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/4.png)
 
 把 $T$ 分成四个时间段：
 
-![4](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/5.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/5.png)
 
 此时，在每一个时间段上，要不卖出一个馒头，要不没有卖出：
 
-![5](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/6.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/6.png)
 
 在每个时间段，就有点像抛硬币，要不是正面（卖出），要不是反面（没有卖出）。
 
@@ -64,13 +64,13 @@ $$
 
 但是，如果把周二的 $7$ 个馒头放在线段上，分成四段就不够了：
 
-![6](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/7.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/7.png)
 
 从图中看，每个时间段，有卖出 $3$ 个的，有卖出 $2$ 个的，有卖出 $1$ 个的，就不再是单纯的“卖出、没卖出”了。不能套用二项分布了。
 
 解决这个问题也很简单，把 $T$ 分为20个时间段，那么每个时间段就又变为了抛硬币：
 
-![7](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/8.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/8.png)
 
 这样，$T$ 时间段内卖出 $7$ 个馒头的概率就是（相当于抛了 $20$ 次硬币，出现 $7$ 次正面）：
 
@@ -180,11 +180,11 @@ $$
 
 画出概率密度函数的曲线就是：
 
-![8](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/9.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/9.png)
 
 可以看到，如果每天准备 $8$ 个馒头的话，那么足够卖的概率就是把前 $8$ 个的概率加起来：
 
-![9](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/10.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/10.png)
 
 这样 $93 \%$ 的情况够用，偶尔卖缺货也有助于品牌形象。
 
@@ -195,6 +195,6 @@ $$
 
 鉴于二项分布与泊松分布的关系，可以很自然的得到一个推论，当二项分布的 $p$ 很小的时候，两者比较接近：
 
-![1559012606184](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1559012606184.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1559012606184.png)
 
-![1559012545993](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1559012545993.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/1559012545993.png)

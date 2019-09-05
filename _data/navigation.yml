@@ -25,10 +25,14 @@ ComputerNetwork:
 
 
 
-## => data structure and algorithms
+## => data structure
 ##########################################
-DataStructureAndAlgorithms:
+DataStructure:
 
+
+## => algorithms
+##########################################
+Algorithms:
 
 ## => design pattern
 ##########################################

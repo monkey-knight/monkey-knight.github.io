@@ -15,7 +15,6 @@ sidebar:
 英文原文地址：<http://varianceexplained.org/statistics/beta_distribution_and_baseball/>
 
 
-
 像[正太分布（Normal Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[二项分布（Binomial Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)、[均匀分布（Uniform Distribution）](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)这样一些分布在统计学教学中会结合它们在现实中的意义和应用加以解释，这也意味着统计学的初学者对它们的有非常深刻的理解。但是我发现 [Beta 分布](http://en.wikipedia.org/wiki/Beta_distribution)几乎没有直观上的解释，取而代之的是大量的术语，比如“共轭先验（conjugate prior）”和”顺序统计（order statistic）“。
 
 简而言之，Beta 分布可以被理解为<font color='red'>概率的概率分布（probability distribution of probabilities）</font>——也就是说，当我们不知道概率是多少时，它可以表示概率的所有可能的值。下面的我最喜欢的关于 Beta 分布的解释：
@@ -30,7 +29,7 @@ sidebar:
 
 我们假定球员的赛季平均击球率最可能是 $0.27$，但是我们认为在 $0.21$ 到 $0.35$ 之间都是合理的。这可以使用参数为 $\alpha=81$ 和 $\beta=219$ 的 Beta 分布来表示：
 
-![center](./assets/plot1-1.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/plot1-1.png)
 
 我提出这些参数有两个原因：
 
@@ -47,13 +46,13 @@ $$
 
 其中 $\alpha$ 和 $\beta$ 也就是我们刚开始的参数 $81$ 和 $219$。因此，在此情况下，$\alpha$ 会加 $1$ （击中一次），然而 $\beta$ 不会增加。这意味着我们新的分布将是 $Beta(81 + 1, 219)$。将其与原分布做一下比较：
 
-![center](./assets/plot2-1.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/plot2-1.png)
 
 我们从图中发现，几乎没有什么变化，那是因为一次击球并并不能代表什么。
 
 可是，当球员击球的次数变多，曲线也会不断的变化，而且图像也会越变越窄。假设球员击球 $300$ 次，其中击中 $100$ 次，$200$ 次没有击中，那么新的 Beta 分布就是 $Beta(81 + 100, 219 + 200)$，图像如下：
 
-![center](./assets/plot3-1.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/math/probability-theory/assets/plot3-1.png)
 
 我们会发现，图像向右移动而且变的更窄。我们就能够更好的了解球员的平均击球率。
 
