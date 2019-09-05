@@ -21,7 +21,13 @@ header:
 
 ## => computer network
 ##########################################
-ComputerNetwork:
+## -> network diagnosis
+##----------------------------------------
+NetworkDiagnosis:
+  - title:      NetworkDiagnosis
+    children:
+      - title:  Minimizing probing cost and achieving identifiability in probe-based network link monitoring
+        url:    /_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring
 
 
 
@@ -97,6 +103,6 @@ Pygame:
   - title:      Pygame
     children:
       - title:  pixel and color
-        url:    /_posts/python/pygame/2019-09-05-pixel-color 
+        url:    /_posts/python/pygame/2019-09-05-pixel-color
 
 
