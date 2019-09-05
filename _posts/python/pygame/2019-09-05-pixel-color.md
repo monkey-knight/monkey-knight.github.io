@@ -40,7 +40,7 @@ pygame.image.save(all_colors, "allcolors.bmp")
 
 下图即为输出结果：
 
-![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/pygame/assets/allcolors.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/pygame/assets/allcolors.jpg)
 
 ## 颜色
 
