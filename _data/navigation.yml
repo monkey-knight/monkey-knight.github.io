@@ -94,5 +94,9 @@ Simpy:
 
 
 Pygame:
+  - title:      Pygame
+    children:
+      - title:  pixel and color
+        url:    /_posts/python/pygame/2019-09-05-pixel-color 
 
 

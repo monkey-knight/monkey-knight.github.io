@@ -1,3 +1,16 @@
+---
+layout: article
+title: pixel and color
+permalink: /_posts/python/pygame/2019-09-05-pixel-color 
+tags: Pygame
+aside:
+  toc: true
+sidebar:
+  nav: Pygame
+---
+
+<!--more-->
+
 ## 像素
 
 凑近显示器，你能看到图像是由一个一个点构成的，这些点就是像素。一个分辨率为 $1280 \times 1024$ 的显示器，有 $1280 \times 1024 = 1310720$ 个像素。一个 `RGB` 系统，每个像素可以显示 $256 \times 256 \times 256 = 16777216‬$ 种颜色。（推荐阅读博客：[一张白纸可以承载多少](https://eyehere.net/2011/how-many-image-in-one-paper/)）
