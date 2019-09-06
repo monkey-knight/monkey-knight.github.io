@@ -69,6 +69,12 @@ $$
 
 <center>fig.3, 依赖矩阵</center>
 
+## Path Selection Algorithm
+
+### Overview
+
+算法的基本思想是
+
 
 
 
