@@ -40,9 +40,9 @@ sidebar:
 
 ### System Model and Problem Description
 
-将网络建模成一个连通的无向图 $G(V, E)$，其中 $V$ 表示节点（`routers`）集合，$E=\{e_i | 1 \le i \le m\}$ 表示边（路由间的通信链路）集合。
+将网络建模成一个连通的无向图 $G(V, E)$，其中 $V$ 表示节点（`routers`）集合，$E=\{e_i|1 \le i \le m\}$ 表示边（路由间的通信链路）集合。
 
-在网络中，有 $n$ 个探测路径 $P=\{p_i | 1 \le i \le n\}$，它们是用来监控 $m_t$ 个目标链路 $E_t \in E$。为了简单，目标链路被标记为 $e_1, \dots, e_{m_t}$。
+在网络中，有 $n$ 个探测路径 $P=\{p_i|1 \le i \le n\}$，它们是用来监控 $m_t$ 个目标链路 $E_t \in E$。为了简单，目标链路被标记为 $e_1, \dots, e_{m_t}$。
 
 > 定义1. 给定一个网络 $G$ ，一个探测路径集合 $P$ ，和一个目标链路集合 $E_t$，目标就是从集合 $P$ 中选择最少量的探测路径，使得所有的可识别的目标链路能够被唯一确定，所有不可识别的目标链路能够被覆盖。
 
@@ -57,21 +57,17 @@ $$
 $$
 \textbf{A} \textbf{x}=\textbf{b}
 $$
-![image](assets/1.png)
+![image](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/computer-network/network-diagnosis/assets/1.png)
 
 <center>fig.1, a simple of network</center>
 上图中的网络有六个探测路径和五条链路。因此，线性方程组有六个等式和五个变量 $x_1, x_2, \dots, x_5$ 如 fig.2。
 
-<img src="assets/2.png" alt="image" style="zoom:60%;" />
+<img src="https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/computer-network/network-diagnosis/assets//2.png" alt="image" style="zoom:60%;" />
 
 <center>fig.2, 线性方程组</center>
-
-<img src="assets/3.png" alt="image" style="zoom:60%;" />
+<img src="https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/computer-network/network-diagnosis/assets//3.png" alt="image" style="zoom:60%;" />
 
 <center>fig.3, 依赖矩阵</center>
-
-
-
 
 
 

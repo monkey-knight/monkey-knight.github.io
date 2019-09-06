@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb852f8f-9a12-4d43-829b-348fd08b5cf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/svg/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +13,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="636">
+                <caret line="140" column="116" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="116" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <entry file="file://$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="639">
+                <caret line="67" column="138" selection-start-line="67" selection-start-column="138" selection-end-line="67" selection-end-column="138" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -76,10 +80,10 @@
         <option value="$PROJECT_DIR$/_posts/math/probability-theory/2019-05-29-beta-distribution.md" />
         <option value="$PROJECT_DIR$/_posts/python/pygame/pixel_color.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md" />
         <option value="$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-04-contents.md" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md" />
       </list>
     </option>
   </component>
@@ -110,25 +114,40 @@
             <path>
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="svg" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-network" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="svg" type="462c0819:PsiDirectoryNode" />
-              <item name="icon" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-network" type="462c0819:PsiDirectoryNode" />
+              <item name="network-diagnosis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,12 +213,12 @@
       <updated>1567589567425</updated>
       <workItem from="1567589572565" duration="34950000" />
       <workItem from="1567685455174" duration="2891000" />
-      <workItem from="1567748593885" duration="738000" />
+      <workItem from="1567748593885" duration="1314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38579000" />
+    <option name="totallyTimeSpent" value="39155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -243,9 +262,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/mstile-150x150.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/android-chrome-192x192.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -343,26 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2057">
-            <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/python/numpy/2019-09-04-numpy-axis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="3" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/2019-05-30-exponential-distribution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -379,28 +375,8 @@
     <entry file="file://$PROJECT_DIR$/_includes/article-info.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/extensions/youtube.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/extensions/ted.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -475,10 +451,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/svg/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/numpy/2019-09-04-numpy-axis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-85">
+            <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="636">
+            <caret line="140" column="116" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="116" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="639">
+            <caret line="67" column="138" selection-start-line="67" selection-start-column="138" selection-end-line="67" selection-end-column="138" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
