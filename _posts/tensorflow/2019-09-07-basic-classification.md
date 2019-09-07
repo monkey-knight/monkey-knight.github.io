@@ -1,3 +1,17 @@
+---
+layout: article
+title: basic classification
+permalink: /_posts/tensorflow/2019-09-07-basic-classification
+tags: Tensorflow
+aside:
+  toc: true
+sidebar:
+  nav: Tensorflow
+---
+
+<!--more-->
+
+
 
 此实验用于训练了一个神经网络模型，来对服装图像进行分类。
 

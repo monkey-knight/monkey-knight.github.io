@@ -105,4 +105,9 @@ Pygame:
       - title:  pixel and color
         url:    /_posts/python/pygame/2019-09-05-pixel-color
 
+Tensorflow:
+  - title:	    Tensorflow
+    children:   
+      - title:  basic classification
+      url:      /_posts/tensorflow/2019-09-07-basic-classification
 
