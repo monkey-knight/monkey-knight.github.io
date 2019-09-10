@@ -2,11 +2,11 @@
 layout: article
 title: catch that cow
 permalink: /_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow
-tags: AlgorithmsAndDataStructure
+tags: Algorithms
 aside:
   toc: true
 sidebar:
-  nav: AlgorithmsAndDataStructure
+  nav: Algorithms
 ---
 
 <!--more-->
@@ -45,7 +45,7 @@ sidebar:
 
 广度优先搜索（BFS, Breadth-First Search）是按照距离初始状态由远及近的顺序进行搜索的，因此经常用来求最短路径之类的问题。结合[博客](https://blog.csdn.net/qq_34690929/article/details/77461552#question)的图片来分析一下 `BFS` 算法。
 
-![img](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master//_posts/algorithms-and-data-structure/algorithms/BFS-problem/assets/20170821233341072.png)
+![img](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/algorithms-and-data-structure/algorithms/BFS-problem/assets/20170821233341072.png)
 
 在广度优先搜索中，需要使用到**队列**来按顺序将每层的节点进行处理。
 

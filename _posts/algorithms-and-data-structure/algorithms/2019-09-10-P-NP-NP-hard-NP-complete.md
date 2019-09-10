@@ -2,11 +2,11 @@
 layout: article
 title: P、NP、NP-Complete and NP-Hard
 permalink: /_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete
-tags: AlgorithmsAndDataStructure
+tags: Algorithms
 aside:
   toc: true
 sidebar:
-  nav: AlgorithmsAndDataStructure
+  nav: Algorithms
 ---
 
 <!--more-->

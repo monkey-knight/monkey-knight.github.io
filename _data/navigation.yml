@@ -30,36 +30,37 @@ NetworkDiagnosis:
 
 
 
-#######################----------------------------algorithms and data structure------------------------------------###################
-AlgorithmsAndDataStructure:
-  - title:          Algorithms
+#######################------------------------------algorithms--------------------------------------###################
+Algorithms:
+  - title:      introduction
     children:
-      - title:      P, NP, NP-Complete, NP-Hard
-        url:        /_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete
-      - title:      backtracing
-        children:
-          - title:  backtracing implement permutation and combination
-            url:    /_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination
-      - title:      BFS
-        children:
-          - title:  catch that cow
-            url:    /_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow
-      - title:      DFS
-        children:
-          - title:  castle problem
-            url:    /_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem
-      - title:      greedy problem
-        children:
-          - title:  set cover problem
-            url:    /_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem
-  - title:          Data Structure
+      - title:  P, NP, NP-Complete, NP-Hard
+        url:    /_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete
+  - title:      backtracing
     children:
-      - title:      tree
-        children:
-          - title:  binary search tree
-            url:    /_posts
-          - title:  AVL tree
-            url:    /_posts
+      - title:  backtracing implement permutation and combination
+        url:    /_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination
+  - title:      BFS problem
+    children:
+      - title:  catch that cow
+        url:    /_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow
+  - title:      DFS problem
+    children:
+      - title:  castle problem
+        url:    /_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem
+  - title:      greedy problem
+    children:
+      - title:  set cover problem
+        url:    /_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem
+
+#######################----------------------------data structure------------------------------------###################
+DataStructure:
+  - title:      tree
+    children:
+      - title:  binary search tree
+        url:    /_posts
+      - title:  AVL tree
+        url:    /_posts
 
 
 

@@ -2,11 +2,11 @@
 layout: article
 title: castle problem 
 permalink: /_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem
-tags: AlgorithmsAndDataStructure
+tags: Algorithms
 aside:
   toc: true
 sidebar:
-  nav: AlgorithmsAndDataStructure
+  nav: Algorithms
 ---
 
 <!--more-->
@@ -16,7 +16,7 @@ sidebar:
 如图是一个城堡的地形图。请你编写一个程序，计算城堡一共有多少个房间，最大的房间有多大。
 城堡被分割成 $m \times n(m \le 50, n \le 50)$ 个方块，每个方块可以有 0 - 4 面墙。
 
-![](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master//_posts/algorithms-and-data-structure/algorithms/DFS-problem/assets/capture_20190518170302499.bmp)
+![](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/algorithms-and-data-structure/algorithms/DFS-problem/assets/capture_20190518170302499.bmp)
 
 ### 输入
 

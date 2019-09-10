@@ -2,11 +2,11 @@
 layout: article
 title: backtracing implement permutation and combination
 permalink: /_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination
-tags: AlgorithmsAndDataStructure
+tags: Algorithms
 aside:
   toc: true
 sidebar:
-  nav: AlgorithmsAndDataStructure
+  nav: Algorithms
 ---
 
 <!--more-->

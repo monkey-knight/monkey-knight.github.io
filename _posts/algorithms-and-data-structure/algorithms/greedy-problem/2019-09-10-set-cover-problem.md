@@ -2,11 +2,11 @@
 layout: article
 title: set cover problem
 permalink: /_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem
-tags: AlgorithmsAndDataStructure
+tags: Algorithms
 aside:
   toc: true
 sidebar:
-  nav: AlgorithmsAndDataStructure
+  nav: Algorithms
 ---
 
 <!--more-->
