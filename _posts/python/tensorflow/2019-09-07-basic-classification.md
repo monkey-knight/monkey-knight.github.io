@@ -1,7 +1,7 @@
 ---
 layout: article
 title: basic classification
-permalink: /_posts/tensorflow/2019-09-07-basic-classification
+permalink: /_posts/python/tensorflow/2019-09-07-basic-classification
 tags: Tensorflow
 aside:
   toc: true

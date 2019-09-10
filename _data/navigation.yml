@@ -101,7 +101,9 @@ Pygame:
 ##----------------------------------------
 Tensorflow:
   - title:	    Tensorflow
-    children:   
+    children:
       - title:  basic classification
-        url:    /_posts/tensorflow/2019-09-07-basic-classification
+        url:    /_posts/python/tensorflow/2019-09-07-basic-classification
+      - title:  text classification
+        url:    /_posts/python/tensorflow/2019-09-10-text-classification
 
