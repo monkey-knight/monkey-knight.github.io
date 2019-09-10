@@ -120,7 +120,7 @@ plt.show()
 ```
 
 
-![output_14_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_14_0.png)
+![output_14_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_14_0.png)
 
 
 如上图，如果将训练集的第一张图显示出来，我们可以看到其像素值的取值范围为 $[0, 255]$。
@@ -148,7 +148,7 @@ plt.show()
 ```
 
 
-![output_19_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_19_0.png)
+![output_19_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_19_0.png)
 
 
 ## 构建模型
@@ -343,7 +343,7 @@ plt.show()
 ```
 
 
-![output_41_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_41_0.png)
+![output_41_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_41_0.png)
 
 
 最后，我们使用训练的模型对单个图像进行预测。在对单个图像数据进行处理以前，我们需要将单个图像数据加入到一个列表中，这是因为 `tensorflow.keras` 处理的是批量数据。
@@ -380,7 +380,7 @@ plt.show()
 ```
 
 
-![output_45_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_45_0.png)
+![output_45_0](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_45_0.png)
 
 
 `model.predict` 返回一个包含列表的列表，每个图像对应一个列表的数据。获取批次中我们(仅有的)图像的预测:

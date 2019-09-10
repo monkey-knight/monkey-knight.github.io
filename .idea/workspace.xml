@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fb852f8f-9a12-4d43-829b-348fd08b5cf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-09-04-contents.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-04-contents.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tensorflow/2019-09-07-basic-classification.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tensorflow/assets/output_14_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tensorflow/assets/output_19_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tensorflow/assets/output_41_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tensorflow/assets/output_45_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-10-text-classification.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-10-text-classification.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,63 +18,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2380">
-                <caret line="140" column="116" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="116" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="935">
-                <caret line="55" column="39" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/archive.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/article-info.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/article-list.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="107" column="72" selection-start-line="107" selection-start-column="72" selection-end-line="107" selection-end-column="72" />
+            <state relative-caret-position="580">
+              <caret line="53" column="112" selection-start-line="53" selection-start-column="112" selection-end-line="53" selection-end-column="112" />
+              <folding>
+                <element signature="e#1388#1495#0" />
+                <element signature="e#1528#1600#0" />
+                <element signature="e#1633#1705#0" />
+                <element signature="e#1749#1824#0" />
+                <element signature="e#1907#2040#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/BinarySearchTree.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="816">
+                <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="8" selection-end-line="11" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-812">
+                <caret line="18" column="144" selection-start-line="18" selection-start-column="144" selection-end-line="18" selection-end-column="144" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="103" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -83,9 +107,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="548">
+                <caret line="382" column="108" selection-start-line="382" selection-start-column="108" selection-end-line="382" selection-end-column="108" />
+                <folding>
+                  <element signature="e#0#23#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -93,11 +120,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
+        <entry file="file://$PROJECT_DIR$/_posts/python/tensorflow/2019-09-10-text-classification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="27" column="156" selection-start-line="27" selection-start-column="156" selection-end-line="27" selection-end-column="156" />
+              <first_editor relative-caret-position="718">
+                <caret line="399" column="99" selection-start-line="399" selection-start-column="99" selection-end-line="399" selection-end-column="99" />
+                <folding>
+                  <element signature="e#0#23#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -105,10 +135,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="79" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="79" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,6 +163,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cs &lt;1580325417@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -141,7 +179,6 @@
         <option value="$PROJECT_DIR$/HOW_TO_RELEASE.md" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README-zh.md" />
         <option value="$PROJECT_DIR$/doc/2019-09-04-numpy-axis.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-04-numpy-axis.md" />
@@ -160,8 +197,18 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-04-contents.md" />
-        <option value="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/2019-09-10-P-NP-NP-hard-NP-complete.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/greedy-problem/2019-09-10-set-cover-problem.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/castle_problem.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md" />
+        <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md" />
+        <option value="$PROJECT_DIR$/_posts/python/tensorflow/2019-09-10-text-classification.md" />
       </list>
     </option>
   </component>
@@ -197,7 +244,59 @@
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="backtracing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS-problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS-problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="greedy-problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,18 +325,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\algorithms-and-data-structure\greedy-problem" />
+      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_includes\svg" />
+      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\python\numpy" />
+      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\doc" />
+      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\documents" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_includes\svg\icon" />
       <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\python\pygame" />
       <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts" />
       <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\math\probability-theory" />
       <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\numpy" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_includes\svg" />
-      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\_posts\python\numpy" />
-      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\doc" />
-      <recent name="C:\Users\monkeyknight\Documents\LearningMaterials\GitRepositories\monkey-knight.github.io\documents" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,19 +367,27 @@
       <workItem from="1567748593885" duration="3844000" />
       <workItem from="1567842574109" duration="668000" />
       <workItem from="1567940804761" duration="1391000" />
-      <workItem from="1568123268100" duration="32000" />
+      <workItem from="1568123268100" duration="4576000" />
     </task>
+    <task id="LOCAL-00001" summary="add text classification for tensorflow tag">
+      <created>1568123399932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568123399932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43776000" />
+    <option name="totallyTimeSpent" value="48320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.31876332" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2489339" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.37603796" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -315,45 +423,11 @@
       </list>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add text classification for tensorflow tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text classification for tensorflow tag" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/jekyll-text-theme.gemspec" />
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/mstile-310x310.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/logo/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.md" />
-    <entry file="file://$PROJECT_DIR$/screenshot.jpg" />
-    <entry file="file://$PROJECT_DIR$/Dockerfile.dev">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/licenses.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/locale.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357" />
@@ -458,14 +532,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -516,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/archive.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -536,26 +595,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/article-list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="27" column="156" selection-start-line="27" selection-start-column="156" selection-end-line="27" selection-end-column="156" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -563,10 +602,172 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/BinarySearchTree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/AVLTree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="629">
+            <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/2019-09-10-P-NP-NP-hard-NP-complete.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/greedy-problem/2019-09-10-set-cover-problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="8" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="816">
+            <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="79" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-812">
+            <caret line="18" column="144" selection-start-line="18" selection-start-column="144" selection-end-line="18" selection-end-column="144" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="103" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/AVLTree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/BinarySearchTree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/tensorflow/2019-09-07-basic-classification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="548">
+            <caret line="382" column="108" selection-start-line="382" selection-start-column="108" selection-end-line="382" selection-end-column="108" />
+            <folding>
+              <element signature="e#0#23#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/tensorflow/2019-09-10-text-classification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="718">
+            <caret line="399" column="99" selection-start-line="399" selection-start-column="99" selection-end-line="399" selection-end-column="99" />
+            <folding>
+              <element signature="e#0#23#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="107" column="72" selection-start-line="107" selection-start-column="72" selection-end-line="107" selection-end-column="72" />
+        <state relative-caret-position="580">
+          <caret line="53" column="112" selection-start-line="53" selection-start-column="112" selection-end-line="53" selection-end-column="112" />
+          <folding>
+            <element signature="e#1388#1495#0" />
+            <element signature="e#1528#1600#0" />
+            <element signature="e#1633#1705#0" />
+            <element signature="e#1749#1824#0" />
+            <element signature="e#1907#2040#0" />
+          </folding>
         </state>
       </provider>
     </entry>

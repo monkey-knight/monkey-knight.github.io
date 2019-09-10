@@ -381,7 +381,7 @@ plt.show()
 ```
 
 
-![png](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_39_0.png)
+![png](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_39_0.png)
 
 
 ```python
@@ -397,5 +397,5 @@ plt.legend()
 plt.show()
 ```
 
-![png](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/tensorflow/assets/output_40_0.png)
+![png](https://raw.githubusercontent.com/monkey-knight/monkey-knight.github.io/master/_posts/python/tensorflow/assets/output_40_0.png)
 
