@@ -137,7 +137,7 @@ Tensorflow:
 
 #######################---------------------------------leetcode-----------------------------------------###################
 Leetcode:
-  - title: leetcode
+  - title:      Leetcode
     children:
-      - title:  20-有效的括号
+      - title:  20. 有效的括号
         url:    /_posts/leetcode/2019-09-18-有效的括号
