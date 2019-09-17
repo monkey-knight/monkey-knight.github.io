@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb852f8f-9a12-4d43-829b-348fd08b5cf0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-04-contents.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-04-contents.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/backtracing/2019-09-10-backtracing-permutation-combination.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +16,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="53" column="108" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="108" />
+            <state relative-caret-position="767">
+              <caret line="142" column="49" lean-forward="true" selection-start-line="142" selection-start-column="49" selection-end-line="142" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="11" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/leetcode/2019-09-18-有效的括号.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="289">
+                <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="633">
-                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <first_editor relative-caret-position="527">
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,22 +131,24 @@
         <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/2019-09-10-P-NP-NP-hard-NP-complete.md" />
         <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/BFS-problem/2019-09-10-catch-that-cow.md" />
         <option value="$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/DFS-problem/2019-09-10-castle-problem.md" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-09-04-contents.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_posts/leetcode/2019-09-18-有效的括号.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="2184" />
-    <option name="height" value="1407" />
+    <option name="x" value="826" />
+    <option name="y" value="261" />
+    <option name="width" value="1101" />
+    <option name="height" value="1392" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,46 +170,7 @@
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="backtracing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS-problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS-problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-and-data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="greedy-problem" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monkey-knight.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -189,20 +183,19 @@
               <item name="monkey-knight.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="pygame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes/svg/icon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -260,7 +253,10 @@
       <workItem from="1567748593885" duration="3844000" />
       <workItem from="1567842574109" duration="668000" />
       <workItem from="1567940804761" duration="1391000" />
-      <workItem from="1568123268100" duration="5952000" />
+      <workItem from="1568123268100" duration="6459000" />
+      <workItem from="1568275377095" duration="614000" />
+      <workItem from="1568431399901" duration="4000" />
+      <workItem from="1568740573756" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="add text classification for tensorflow tag">
       <created>1568123399932</created>
@@ -273,14 +269,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49696000" />
+    <option name="totallyTimeSpent" value="51460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2489339" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1444563" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.37603796" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -321,14 +317,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add text classification for tensorflow tag" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/math/probability-theory/assets/1.svg" />
-    <entry file="file://$PROJECT_DIR$/_includes/paginator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/pageview.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -450,16 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2380">
-            <caret line="140" column="116" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="116" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/computer-network/network-diagnosis/2019-09-05-minimizing-probing-cost-and-achieving-identifiability-in-probe-based-network-link-monitoring.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -490,42 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/BinarySearchTree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/AVLTree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/2019-09-10-P-NP-NP-hard-NP-complete.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/greedy-problem/2019-09-10-set-cover-problem.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/BinarySearchTree.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/trees/AVLTree.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/2019-09-10-P-NP-NP-hard-NP-complete.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/greedy-problem/2019-09-10-set-cover-problem.md" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -543,14 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/AVLTree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/AVLTree.md" />
     <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/data-structure/tree/BinarySearchTree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -564,16 +503,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="306">
             <caret line="18" column="82" lean-forward="true" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-200">
-            <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -638,18 +567,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="53" column="108" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-09-04-contents.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="633">
-            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <first_editor relative-caret-position="527">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/algorithms-and-data-structure/algorithms/greedy-problem/2019-09-10-set-cover-problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/python/relative_path_problem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="142" column="49" lean-forward="true" selection-start-line="142" selection-start-column="49" selection-end-line="142" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/python/pygame/2019-09-05-pixel-color.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/leetcode/2019-09-18-有效的括号.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
